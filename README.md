@@ -1,0 +1,1 @@
+Official Reference: https://firebase.google.com/docs/database/rest/auth
